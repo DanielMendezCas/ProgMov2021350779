@@ -1,0 +1,18 @@
+# Carpetas de compilación y Gradle
+/.gradle
+/build
+/app/build
+/captures
+
+# Configuración de Android Studio
+/.idea
+local.properties
+
+# Archivos generados por el IDE
+*.iml
+
+# Archivos de caché
+.DS_Store
+
+# Archivos de registro
+*.log
